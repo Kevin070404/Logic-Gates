@@ -16,7 +16,7 @@ The Logic Gate Simulator is a C and Java console application designed to simulat
 1. Select a Gate
 
 The application will prompt you to select a logic gate from the following options:
-```bash
+```
 Select a gate:
 1. AND gate
 2. OR gate
